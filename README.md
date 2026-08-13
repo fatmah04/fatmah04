@@ -1,6 +1,6 @@
 <img align="left" src="aassets/treble-clef.gif" width="70"/>
 <h1 align="center">Fatmah</h1>
-<img align="right" src="assets/music-note.png" width="70"/>
+<img align="right" src="assets/music-note.gif" width="70"/>
 
 <br clear="both"/>
 
@@ -19,7 +19,7 @@
 💜 Embedded Systems  
 💜 Cloud Computing  
 
-<img align="right" src="assets/clock.png" width="220"/>
+<img align="right" src="assets/clock.gif" width="220"/>
 
 <br clear="right"/>
 
