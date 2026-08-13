@@ -30,7 +30,7 @@
   <img src="assets/boy" width="70%"/>
 </p>
 
-<img align="right" src="assets/candles.png" width="180"/>
+<img align="right" src="assets/candles.gif" width="180"/>
 
 **I love playing video games, watching TV shows and Movies**
 
