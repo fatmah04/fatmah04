@@ -1,4 +1,4 @@
-<img align="left" src="assets/swirl-side.png" width="240"/>
+<img align="left" src="assets/background" width="240"/>
 
 ## Fatmah
 *- Currently Seeking Co-op Training -*
