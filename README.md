@@ -25,6 +25,9 @@
   <img src="assets/boy" width="70%"/>
 </p>
 <img align="right" src="assets/candles.gif" width="180"/>
+
 **I love playing video games, watching TV shows and Movies**
-**LinkedIn** [![Click here](https://img.shields.io/badge/Click%20here-B784FF?style=flat-square)](PASTE_YOUR_LINKEDIN_URL_HERE)
+
+**LinkedIn** [![Click here](https://img.shields.io/badge/Click%20here-B784FF?style=flat-square)](https://www.linkedin.com/in/fatmah-alsufaian-75544724b)
+
 <br clear="both"/>
