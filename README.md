@@ -1,7 +1,7 @@
-<img align="left" src="assets/background" width="240"/>
+<h1 align="center">Fatmah Alsufaian</h1>
+<h3 align= "center"> - Currently Seeking Co-op Training - </h3>
 
-## Fatmah
-*- Currently Seeking Co-op Training -*
+ <!-- <img align="left" src="assets/background" width="240"/> -->
 
 ### What am I interested in?
 💜 Internet of Things  
