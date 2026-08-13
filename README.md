@@ -14,7 +14,7 @@
 
 <br clear="left"/>
 
-<img align="right" src="assets/portrait.png" width="260"/>
+<img align="right" src="assets/girl" width="260"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Click%20here-B784FF?style=for-the-badge&logo=linkedin&logoColor=white)](PASTE_YOUR_LINKEDIN_URL_HERE)
 
