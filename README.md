@@ -1,4 +1,4 @@
-<img align="left" src="assets/treble-clef.png" width="70"/>
+<img align="left" src="aassets/treble-clef.gif" width="70"/>
 <h1 align="center">Fatmah</h1>
 <img align="right" src="assets/music-note.png" width="70"/>
 
