@@ -7,7 +7,7 @@
 <p align="center"><i>Currently Seeking Co-op Training</i></p>
 <p align="center">──────────────────────────</p>
 
-<img align="right" src="assets/girl.png" width="280"/>
+<img align="right" src="assets/girl" width="280"/>
 <img src="assets/heart-icon.png" width="90"/>
 
 ## Hello and welcome Strangers
