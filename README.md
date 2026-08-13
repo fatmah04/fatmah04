@@ -1,4 +1,4 @@
-<img align="left" src="aassets/treble-clef.gif" width="70"/>
+<img align="left" src="assets/treble-clef.gif" width="70"/>
 <h1 align="center">Fatmah</h1>
 <img align="right" src="assets/music-note.gif" width="70"/>
 
@@ -8,7 +8,7 @@
 <p align="center">──────────────────────────</p>
 
 <img align="right" src="assets/girl" width="280"/>
-<img src="assets/heart-icon.png" width="90"/>
+<img src="assets/heart-icon.gif" width="90"/>
 
 ## Hello and welcome Strangers
 
