@@ -1,6 +1,6 @@
 <img align="left" src="assets/treble-clef.gif" width="70"/>
 <h1 align="center">Fatmah</h1>
-<img align="right" src="assets/music-note.gif" width="70"/>
+<img align="right" src="assets/music-note.gif" width="100"/>
 
 <br clear="both"/>
 
