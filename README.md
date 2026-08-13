@@ -22,7 +22,7 @@
 <h1 align="left" >Tech:</h1>
 <img src="https://skillicons.dev/icons?i=swift,java,py,aws,gcp,firebase,arduino,raspberrypi" />
 <p align="center">
-  <img src="assets/boy" width="70%"/>
+  <img src="assets/boy" width="40%"/>
 </p>
 <img align="right" src="assets/candles.gif" width="180"/>
 
