@@ -1,30 +1,21 @@
-<h1 align="center">Fatmah</h1>
+<img align="left" src="assets/swirl-side.png" width="240"/>
 
-<p align="center"><i>- Currently Seeking Co-op Training -</i></p>
-
-<p align="center">──────────────────────────</p>
-
-<table width="100%">
-<tr>
-<td valign="top" width="55%">
+## Fatmah
+*- Currently Seeking Co-op Training -*
 
 ### What am I interested in?
-
 💜 Internet of Things  
 💜 Embedded Systems  
 💜 Cloud Computing  
 
 ### Tech:
+<img src="https://skillicons.dev/icons?i=swift,java,py,aws,gcp,firebase,arduino,raspberrypi" />
+<img src="https://img.shields.io/badge/RFID-242938?style=for-the-badge" height="48"/>
 
-<img src="assets/tech-banner.png" width="320" alt="Tech stack: Swift, Java, Python, AWS, GCP, Firebase, Arduino, Raspberry Pi, RFID"/>
+<br clear="left"/>
 
-</td>
-<td valign="top" width="45%" align="center">
+<img align="right" src="assets/portrait.png" width="260"/>
 
-<img src="assets/_.jpg" width="260"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Click%20here-B784FF?style=for-the-badge&logo=linkedin&logoColor=white)](PASTE_YOUR_LINKEDIN_URL_HERE)
 
-</td>
-</tr>
-</table>
-
-<p align="center"><b>LinkedIn</b> — <a href="www.linkedin.com/in/fatmah-alsufaian-75544724b">Click here</a></p>
+<br clear="both"/>
