@@ -27,7 +27,7 @@
 <img src="https://skillicons.dev/icons?i=swift,java,py,aws,gcp,firebase,arduino,raspberrypi" />
 
 <p align="center">
-  <img src="assets/boy.jpeg" width="70%"/>
+  <img src="assets/boy" width="70%"/>
 </p>
 
 <img align="right" src="assets/candles.png" width="180"/>
