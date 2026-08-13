@@ -1,29 +1,32 @@
 <img align="left" src="assets/treble-clef.gif" width="70"/>
 <h1 align="center">Fatmah</h1>
-<img align="right" src="assets/music-note.gif" width="100"/>
+<img align="right" src="assets/music-note.gif" width="140"/>
 
 <br clear="both"/>
 
 <p align="center"><i>Currently Seeking Co-op Training</i></p>
 <p align="center">──────────────────────────</p>
 
-<img align="right" src="assets/girl" width="280"/>
-<img src="assets/heart-icon.gif" width="90"/>
-
-## Hello and welcome Strangers
+<img align="right" src="assets/girl.png" width="400"/>
+<img src="assets/heart-icon.gif" width="200"/>
+<h1 align="left"> Hello<br>and<br>Welcome<br>Strangers</h1>
+<img src="assets/heart-icon.gif" width="200"/>
 
 <br clear="right"/>
 
-### What am I interested in?
-💜 Internet of Things  
-💜 Embedded Systems  
-💜 Cloud Computing  
+<h2 align="left" >What am I interested in?</h2>
+
+<ul align="left" style="list-style-type: '💜 ';">
+  <li>Internet of Things </li>
+  <li>Embedded Systems</li>
+  <li>Cloud Computing</li>
+</ul> 
 
 <img align="right" src="assets/clock.gif" width="220"/>
 
 <br clear="right"/>
 
-### Tech:
+<h2 align="left" >Tech:</h2>
 <img src="https://skillicons.dev/icons?i=swift,java,py,aws,gcp,firebase,arduino,raspberrypi" />
 
 <p align="center">
