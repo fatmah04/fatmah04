@@ -14,7 +14,7 @@
 
 <br clear="right"/>
 
-<h2 align="left" >What am I interested in?</h2>
+<h1 align="left" >What am I interested in?</h1>
 
 <ul align="left" style="list-style-type: '💜 ';">
   <li>Internet of Things </li>
@@ -26,7 +26,7 @@
 
 <br clear="right"/>
 
-<h2 align="left" >Tech:</h2>
+<h1 align="left" >Tech:</h1>
 <img src="https://skillicons.dev/icons?i=swift,java,py,aws,gcp,firebase,arduino,raspberrypi" />
 
 <p align="center">
