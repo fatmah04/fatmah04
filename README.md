@@ -21,7 +21,7 @@
 </td>
 <td valign="top" width="45%" align="center">
 
-<img src="PASTE_YOUR_IMAGE_URL_HERE" width="260"/>
+<img src="assets/_.jpg" width="260"/>
 
 </td>
 </tr>
